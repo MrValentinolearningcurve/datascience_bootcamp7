@@ -1,4 +1,4 @@
-# datascience_bootcamp7
+# Datascience_bootcamp7
 
 All my data projects in the bootcamp. There are 10 sprint as follow.
 
